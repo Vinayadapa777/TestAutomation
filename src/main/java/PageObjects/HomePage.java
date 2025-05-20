@@ -31,12 +31,12 @@ public class HomePage extends ActionFunctions {
 	explicitClickable(logoutButton,10);
 	click(logoutButton);
     }
-//dummy
+
     public void clickOnViewProfile() throws InterruptedException{
 	explicitClickable(viewProfile, 10);
 	click(viewProfile);
     }
-    ///test
+
     //hghjgf
 
 

@@ -36,5 +36,6 @@ public class HomePage extends ActionFunctions {
 	explicitClickable(viewProfile, 10);
 	click(viewProfile);
     }
+    ///test
 
 }
